@@ -1,0 +1,14 @@
+$TTL 60000
+@               IN  SOA     dnsamazon.amazon.com.    root.dnsamazon.amazon.com. (
+                        2025020302 ; serial
+                        28        ; refresh
+                        14400     ; retry
+                        3600000   ; expire
+                        15        ; negative cache ttl
+                        )
+
+@               IN  NS      dnsamazon.amazon.com.
+dnsamazon.amazon.com. IN  A  192.168.0.22
+
+pc2.amazon.com. IN  A       192.168.0.222
+wsamazon.amazon.com. IN  A   192.168.0.220

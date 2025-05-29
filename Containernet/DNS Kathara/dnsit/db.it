@@ -1,0 +1,14 @@
+$TTL 60000
+@               IN  SOA     dnsit.it.    root.dnsit.it. (
+                        2025020302 ; serial
+                        28800      ; refresh
+                        14400      ; retry
+                        3600000    ; expire
+                        0          ; negative cache ttl
+                        )
+
+@               IN  NS      dnsit.it.
+dnsit.it.       IN  A       192.168.0.1
+
+unimib.it.      IN  NS      dnsunimib.unimib.it.
+dnsunimib.unimib.it. IN  A  192.168.0.11

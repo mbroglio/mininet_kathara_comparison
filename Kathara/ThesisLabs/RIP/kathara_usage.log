@@ -1,0 +1,943 @@
+====================================================================
+2025-02-06 21:49:27 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45110    0.0      0.0      18608    /bin/bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:28 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45110    0.0      0.0      18608    /bin/bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:29 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45110    0.0      0.0      18608    /bin/bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:30 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45110    0.0      0.0      18608    /bin/bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:31 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45110    0.0      0.0      18608    /bin/bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:32 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:33 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:34 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45181    92.3     1.1      1687724  kathara
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:35 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45181    26.9     1.1      1556260  kathara
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:36 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45181    15.9     1.1      1556260  kathara
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:37 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45181    11.5     1.1      1687724  kathara
+root       1997     0.5      0.0      717652   ./katharanp
+root       1897     0.1      0.6      3754904  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:38 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45839    100      1.1      211728   /usr/lib/kathara/kathara
+teo        45850    100      1.0      209684   /usr/lib/kathara/kathara
+teo        45792    92.1     1.1      211728   /usr/lib/kathara/kathara
+teo        45742    78.6     1.1      211728   /usr/lib/kathara/kathara
+teo        45664    70.0     1.1      211724   /usr/lib/kathara/kathara
+teo        45838    2.3      0.0      28716    /usr/bin/xterm
+teo        45822    2.1      0.0      28716    /usr/bin/xterm
+teo        45768    1.8      0.0      28720    /usr/bin/xterm
+teo        45732    1.5      0.0      27948    /usr/bin/xterm
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+root       45927    0.0      0.0      1753256  runc
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:39 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45792    30.5     1.1      211728   /usr/lib/kathara/kathara
+teo        45850    30.2     1.1      211728   /usr/lib/kathara/kathara
+teo        45839    30.1     1.1      212752   /usr/lib/kathara/kathara
+teo        45742    29.2     1.1      211728   /usr/lib/kathara/kathara
+teo        45664    28.3     1.1      211724   /usr/lib/kathara/kathara
+teo        45768    0.6      0.0      28720    /usr/bin/xterm
+teo        45822    0.6      0.0      28716    /usr/bin/xterm
+teo        45838    0.6      0.0      28716    /usr/bin/xterm
+root       1997     0.5      0.0      719052   ./katharanp
+teo        45732    0.5      0.0      27948    /usr/bin/xterm
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:40 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45792    19.1     1.1      212216   /usr/lib/kathara/kathara
+teo        45839    18.1     1.1      213240   /usr/lib/kathara/kathara
+teo        45742    18.0     1.1      211728   /usr/lib/kathara/kathara
+teo        45850    18.0     1.1      213240   /usr/lib/kathara/kathara
+teo        45664    17.8     1.1      211724   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+teo        45838    0.4      0.0      28716    /usr/bin/xterm
+teo        45732    0.3      0.0      27948    /usr/bin/xterm
+teo        45768    0.3      0.0      28720    /usr/bin/xterm
+teo        45822    0.3      0.0      28716    /usr/bin/xterm
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:41 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45792    13.6     1.1      212216   /usr/lib/kathara/kathara
+teo        45664    13.2     1.1      211724   /usr/lib/kathara/kathara
+teo        45742    13.2     1.1      212752   /usr/lib/kathara/kathara
+teo        45839    12.8     1.1      213240   /usr/lib/kathara/kathara
+teo        45850    12.6     1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+teo        45732    0.2      0.0      27948    /usr/bin/xterm
+teo        45768    0.2      0.0      28720    /usr/bin/xterm
+teo        45822    0.2      0.0      28716    /usr/bin/xterm
+teo        45838    0.2      0.0      28716    /usr/bin/xterm
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:42 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    10.6     1.1      211724   /usr/lib/kathara/kathara
+teo        45792    10.6     1.1      212216   /usr/lib/kathara/kathara
+teo        45742    10.3     1.1      212752   /usr/lib/kathara/kathara
+teo        45839    9.9      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    9.7      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+teo        45732    0.2      0.0      27948    /usr/bin/xterm
+teo        45768    0.2      0.0      28720    /usr/bin/xterm
+teo        45822    0.2      0.0      28716    /usr/bin/xterm
+teo        45838    0.2      0.0      28716    /usr/bin/xterm
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:43 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    8.7      1.1      211724   /usr/lib/kathara/kathara
+teo        45792    8.6      1.1      212216   /usr/lib/kathara/kathara
+teo        45742    8.5      1.1      212752   /usr/lib/kathara/kathara
+teo        45839    8.0      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    7.9      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+teo        45732    0.1      0.0      27948    /usr/bin/xterm
+teo        45768    0.1      0.0      28720    /usr/bin/xterm
+teo        45822    0.1      0.0      28716    /usr/bin/xterm
+teo        45838    0.1      0.0      28716    /usr/bin/xterm
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:44 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    7.4      1.1      211724   /usr/lib/kathara/kathara
+teo        45742    7.3      1.1      212752   /usr/lib/kathara/kathara
+teo        45792    7.3      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    6.8      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    6.7      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+teo        45732    0.1      0.0      27948    /usr/bin/xterm
+teo        45768    0.1      0.0      28720    /usr/bin/xterm
+teo        45822    0.1      0.0      28716    /usr/bin/xterm
+teo        45838    0.1      0.0      28716    /usr/bin/xterm
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:45 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    6.5      1.1      211724   /usr/lib/kathara/kathara
+teo        45742    6.4      1.1      212752   /usr/lib/kathara/kathara
+teo        45792    6.3      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    5.8      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    5.7      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+teo        45732    0.1      0.0      27948    /usr/bin/xterm
+teo        45768    0.1      0.0      28720    /usr/bin/xterm
+teo        45822    0.1      0.0      28716    /usr/bin/xterm
+teo        45838    0.1      0.0      28716    /usr/bin/xterm
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:46 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    5.8      1.1      211724   /usr/lib/kathara/kathara
+teo        45742    5.7      1.1      212752   /usr/lib/kathara/kathara
+teo        45792    5.6      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    5.1      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    5.1      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+teo        45732    0.1      0.0      27948    /usr/bin/xterm
+teo        45768    0.1      0.0      28720    /usr/bin/xterm
+teo        45822    0.1      0.0      28716    /usr/bin/xterm
+teo        45838    0.1      0.0      28716    /usr/bin/xterm
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:47 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    5.3      1.1      211724   /usr/lib/kathara/kathara
+teo        45742    5.1      1.1      212752   /usr/lib/kathara/kathara
+teo        45792    5.0      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    4.6      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    4.5      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+teo        45732    0.1      0.0      27948    /usr/bin/xterm
+teo        45768    0.1      0.0      28720    /usr/bin/xterm
+teo        45822    0.1      0.0      28716    /usr/bin/xterm
+teo        45838    0.1      0.0      28716    /usr/bin/xterm
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:48 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    4.8      1.1      211724   /usr/lib/kathara/kathara
+teo        45742    4.6      1.1      212752   /usr/lib/kathara/kathara
+teo        45792    4.5      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    4.2      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    4.1      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+root       46718    0.0      0.0      1826988  runc
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:49 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    4.4      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    4.3      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    4.1      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    3.8      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    3.7      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:50 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    4.1      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    4.0      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    3.8      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    3.5      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    3.4      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:51 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    3.8      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    3.7      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    3.5      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    3.2      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    3.2      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:52 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    3.5      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    3.4      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    3.2      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    3.0      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.9      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:53 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    3.3      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    3.2      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    3.0      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.8      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.7      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:54 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    3.1      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    3.0      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.8      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.6      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.6      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:56 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    2.9      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.8      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.7      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.5      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.4      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:57 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    2.8      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.7      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.5      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.3      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.3      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:58 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    2.6      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.5      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.4      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.2      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.2      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:49:59 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    2.5      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.4      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.3      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.1      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.1      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:00 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    2.4      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.3      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.2      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    2.0      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    2.0      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:01 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        45664    2.3      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.2      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.1      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    1.9      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    1.9      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:02 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        46931    32.3     1.1      211728   kathara
+teo        45664    2.2      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.1      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    2.0      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    1.8      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    1.8      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:03 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+teo        46931    16.1     1.1      211728   kathara
+teo        45664    2.1      1.1      213256   /usr/lib/kathara/kathara
+teo        45742    2.0      1.1      213260   /usr/lib/kathara/kathara
+teo        45792    1.9      1.1      212216   /usr/lib/kathara/kathara
+teo        45839    1.7      1.1      213240   /usr/lib/kathara/kathara
+teo        45850    1.7      1.1      213240   /usr/lib/kathara/kathara
+root       1997     0.5      0.0      719052   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+root       45218    0.0      0.0      1668     vde_switch
+root       45221    0.0      0.0      1668     vde_switch
+root       45228    0.0      0.0      1668     vde_switch
+root       45235    0.0      0.0      1668     vde_switch
+root       45241    0.0      0.0      1668     vde_switch
+teo        45653    0.0      0.0      27952    /usr/bin/xterm
+teo        45732    0.0      0.0      27948    /usr/bin/xterm
+teo        45768    0.0      0.0      28720    /usr/bin/xterm
+teo        45822    0.0      0.0      28716    /usr/bin/xterm
+teo        45838    0.0      0.0      28716    /usr/bin/xterm
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:04 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:05 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:06 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       45110    0.2      0.0      18608    /bin/bash
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:07 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:08 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:09 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:10 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:11 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-06 21:50:12 - CPU and Memory Usage for Kathara-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1997     0.5      0.0      717908   ./katharanp
+root       1897     0.1      0.6      3730316  /usr/bin/dockerd
+root       45110    0.1      0.0      18608    /bin/bash
+root       45108    0.0      0.0      28316    sudo
+root       45109    0.0      0.0      28316    sudo
+--------------------------------------------------------------------
+

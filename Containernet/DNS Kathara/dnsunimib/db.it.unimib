@@ -1,0 +1,14 @@
+$TTL 60000
+@               IN  SOA     dnsunimib.unimib.it.    root.dnsunimib.unimib.it. (
+                        2025020302 ; serial
+                        28        ; refresh
+                        14        ; retry
+                        3600000   ; expire
+                        0         ; negative cache ttl
+                        )
+
+@               IN  NS      dnsunimib.unimib.it.
+dnsunimib.unimib.it. IN  A  192.168.0.11
+
+pc1.unimib.it.  IN  A       192.168.0.111
+wsunimib.unimib.it. IN  A   192.168.0.110

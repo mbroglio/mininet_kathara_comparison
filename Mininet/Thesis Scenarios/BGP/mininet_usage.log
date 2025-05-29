@@ -1,0 +1,1331 @@
+====================================================================
+2025-02-08 14:41:06 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:07 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:09 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:10 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:11 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:12 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      27876    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:13 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      27876    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:14 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:15 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     2.9      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:16 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     1.4      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:17 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.9      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:18 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.7      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:19 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.5      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:20 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.4      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4217     0.0      0.0      19136    /bin/bash
+root       4231     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:21 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.4      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4217     0.0      0.0      19136    /bin/bash
+root       4231     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:22 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.3      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4217     0.0      0.0      19136    /bin/bash
+root       4231     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:23 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.3      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4217     0.0      0.0      19136    /bin/bash
+root       4231     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:24 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.2      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      319984   /usr/lib/frr/zebra
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4301     0.0      0.0      19136    /bin/bash
+root       4313     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+root       4315     0.0      0.0      2800     sh
+root       4316     0.0      0.0      19388    /bin/bash
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:25 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.2      0.1      34232    python3
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4341     0.0      0.0      178856   /usr/lib/frr/bgpd
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4301     0.0      0.0      19136    /bin/bash
+root       4313     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:26 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.2      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4301     0.0      0.0      19136    /bin/bash
+root       4313     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:27 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.2      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4301     0.0      0.0      19136    /bin/bash
+root       4313     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:28 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.2      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4301     0.0      0.0      19136    /bin/bash
+root       4313     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:29 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:30 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:31 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:32 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:33 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:34 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:35 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:36 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:37 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+teo        4513     0.0      0.0      40056    /usr/bin/python3
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:38 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:39 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:40 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:41 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:43 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:44 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+root       4091     0.1      0.1      34232    python3
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:45 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+root       4091     0.0      0.1      34232    python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:46 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+root       4091     0.0      0.1      34232    python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:47 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+root       4091     0.0      0.1      34232    python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:48 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179756   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+root       4091     0.0      0.1      34232    python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179848   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      468932   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4063     0.0      0.0      28348    sudo
+root       4090     0.0      0.0      28348    sudo
+root       4097     0.0      0.0      18740    bash
+root       4099     0.0      0.0      18740    bash
+root       4101     0.0      0.0      18740    bash
+root       4103     0.0      0.0      18740    bash
+root       4105     0.0      0.0      18740    bash
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:49 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179028   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179120   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:50 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179028   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179120   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:51 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179028   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179120   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:52 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179028   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179120   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+
+====================================================================
+2025-02-08 14:41:53 - CPU and Memory Usage for Mininet-Related Processes
+====================================================================
+USER       PID      %CPU     %MEM     VSZ(KB)  COMMAND
+--------------------------------------------------------------------
+frr        4341     0.0      0.1      179028   /usr/lib/frr/bgpd
+root       1070     0.0      0.1      16024    ovs-vswitchd
+root       1709     0.0      0.1      120924   /usr/bin/python3
+frr        1360     0.0      0.0      539536   /usr/lib/frr/zebra
+frr        1376     0.0      0.0      173756   /usr/lib/frr/bgpd
+frr        1384     0.0      0.0      10304    /usr/lib/frr/ripd
+frr        1391     0.0      0.0      12480    /usr/lib/frr/ospfd
+frr        1394     0.0      0.0      9660     /usr/lib/frr/staticd
+frr        4247     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4252     0.0      0.0      179120   /usr/lib/frr/bgpd
+frr        4259     0.0      0.0      10848    /usr/lib/frr/ripd
+frr        4262     0.0      0.0      10180    /usr/lib/frr/staticd
+frr        4329     0.0      0.0      469076   /usr/lib/frr/zebra
+frr        4349     0.0      0.0      10852    /usr/lib/frr/ripd
+frr        4353     0.0      0.0      10180    /usr/lib/frr/staticd
+root       1001     0.0      0.0      11436    ovsdb-server
+root       1305     0.0      0.0      7296     /usr/lib/frr/watchfrr
+root       4232     0.0      0.0      7844     /usr/lib/frr/watchfrr
+root       4314     0.0      0.0      7852     /usr/lib/frr/watchfrr
+--------------------------------------------------------------------
+

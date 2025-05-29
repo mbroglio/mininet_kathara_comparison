@@ -1,0 +1,15 @@
+#!/bin/bash
+
+for NODE in as10r1 as20r1 as20r2 as20r3 as20r4 as20r5
+do
+    sudo install -m 775 -o frr -g frr -d /var/log/frr/${NODE}
+    sudo install -m 775 -o frr -g frrvty -d /etc/frr/${NODE}
+    sudo install -m 640 -o frr -g frrvty ${NODE}/vtysh.conf \
+	    /etc/frr/${NODE}/vtysh.conf
+    sudo install -m 640 -o frr -g frr ${NODE}/frr.conf \
+	    /etc/frr/${NODE}/frr.conf
+    sudo install -m 640 -o frr -g frr ${NODE}/daemons  \
+	    /etc/frr/${NODE}/daemons
+done
+
+
